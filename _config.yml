@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Iyanu Ajifowowe"
 title_separator          : "-"
 name                     : &name "Iyanu Ajifowowe"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Iyanu Ajifowowe"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Daejeon, South Korea"
+  employer         : "KAIST"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Ajifowowemichael@kaist.ac.kr" 
 
   # Academic websites
   academia         : # URL
