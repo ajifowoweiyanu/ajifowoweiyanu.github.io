@@ -1,5 +1,5 @@
 ---
-permalink: /S
+permalink: /
 title: "About Me"
 author_profile: true
 excerpt: "Graduate researcher at KAIST researching building energy optimization, occupancy comfort, and reinforcement learning for building control"
@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website! I'm Iyanu Ajifowowe, a graduate researcher at KAIST (Korea Advanced Institute of Science and Technology) in Daejeon, South Korea. My research focuses on building energy optimzation, occupancy comfort and .......
+Welcome to my academic website! I'm Iyanu Ajifowowe, a graduate researcher at KAIST (Korea Advanced Institute of Science and Technology) in Daejeon, South Korea. My research focuses on building energy optimization, occupancy comfort and advanced control systems for sustainable built environments.
 
 ## Research Interests
 
@@ -17,11 +17,12 @@ My current research interests include:
 - Building Energy Optimization 
 - Indoor Environment Quality (IEQ)
 - Reinforcement Learning for Building control
+- HVAC Control Systems
+- Sustainable Building Technologies
 
 ## Academic Background
 
-.............
-
+..........
 ## Publications and Research
 
 You can find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=vg12o4kAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Iyanu-Ajifowowe).
