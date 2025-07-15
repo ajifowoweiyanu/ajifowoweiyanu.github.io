@@ -1,7 +1,9 @@
 ---
-permalink: /
+permalink: /S
 title: "About Me"
 author_profile: true
+excerpt: "Graduate researcher at KAIST researching building energy optimization, occupancy comfort, and reinforcement learning for building control"
+description: "Iyanu Ajifowowe - Graduate researcher at KAIST studying building energy optimization, indoor environment quality, and reinforcement learning for HVAC control systems"
 redirect_from: 
   - /about/
   - /about.html
