@@ -33,12 +33,25 @@ Feel free to reach out to me at Ajifowowemichael at kaist.ac.kr or connect with 
 
 ## News
 
-**Feb 26, 2024** &nbsp;&nbsp;&nbsp; Started Masters in Civil & Environmental Engineering at [KAIST](https://www.kaist.ac.kr).
-
-**Oct 17, 2023** &nbsp;&nbsp;&nbsp; Started working as Software Developer to lead the BIM Startup [Craft AEC Gmbh, Germany](https://www.craft-aec.com).
-
-**Aug 23, 2023** &nbsp;&nbsp;&nbsp; Started working as Data Science Intern at [Jovini Group Pvt. Ltd.](https://jovini.com).
-
-**Aug 23, 2023** &nbsp;&nbsp;&nbsp; Completed [Building AI Products with OpenAI course from Uplimit](https://uplimit.com).
-
-**Dec 15, 2022** &nbsp;&nbsp;&nbsp; Awarded Quaid-E-Azam Gold Medal, earning the distinction of being the overall best achiever of the university. [In News](https://www.pu.edu.pk/news/details/4321).
+<table style="border-collapse: collapse; border: none; width: 100%;">
+<tr style="border: none;">
+<td style="border: none; vertical-align: top; width: 120px; padding-right: 15px;"><strong>Feb 27, 2023</strong></td>
+<td style="border: none; vertical-align: top;">Started Masters in Civil & Environmental Engineering at <a href="https://www.kaist.ac.kr">KAIST</a>.</td>
+</tr>
+<tr style="border: none;">
+<td style="border: none; vertical-align: top; width: 120px; padding-right: 15px; padding-top: 8px;"><strong>Oct 17, 2023</strong></td>
+<td style="border: none; vertical-align: top; padding-top: 8px;">Started working as Software Developer to lead the BIM Startup <a href="https://www.craft-aec.com">Craft AEC Gmbh, Germany</a>.</td>
+</tr>
+<tr style="border: none;">
+<td style="border: none; vertical-align: top; width: 120px; padding-right: 15px; padding-top: 8px;"><strong>Aug 23, 2023</strong></td>
+<td style="border: none; vertical-align: top; padding-top: 8px;">Started working as Data Science Intern at <a href="https://jovini.com">Jovini Group Pvt. Ltd.</a></td>
+</tr>
+<tr style="border: none;">
+<td style="border: none; vertical-align: top; width: 120px; padding-right: 15px; padding-top: 8px;"><strong>Aug 23, 2023</strong></td>
+<td style="border: none; vertical-align: top; padding-top: 8px;">Completed <a href="https://uplimit.com">Building AI Products with OpenAI course from Uplimit</a>.</td>
+</tr>
+<tr style="border: none;">
+<td style="border: none; vertical-align: top; width: 120px; padding-right: 15px; padding-top: 8px;"><strong>Dec 15, 2022</strong></td>
+<td style="border: none; vertical-align: top; padding-top: 8px;">Awarded Quaid-E-Azam Gold Medal, earning the distinction of being the overall best achiever of the university. <a href="https://www.pu.edu.pk/news/details/4321">In News</a>.</td>
+</tr>
+</table>
