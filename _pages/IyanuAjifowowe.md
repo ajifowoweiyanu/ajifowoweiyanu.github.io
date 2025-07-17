@@ -35,23 +35,15 @@ Feel free to reach out to me at Ajifowowemichael at kaist.ac.kr or connect with 
 
 <table style="border-collapse: collapse; border: none; width: 100%;">
 <tr style="border: none;">
-<td style="border: none; vertical-align: top; width: 120px; padding-right: 15px;"><strong>Feb 27, 2023</strong></td>
-<td style="border: none; vertical-align: top;">Started Masters in Civil & Environmental Engineering at <a href="https://www.kaist.ac.kr">KAIST</a>.</td>
+<td style="border: none; vertical-align: top; width: 120px; padding-right: 15px;"><strong>Feb 28, 2025</strong></td>
+<td style="border: none; vertical-align: top;">Started Post-Masters research at <a href="https://www.kaist.ac.kr">KAIST</a>.</td>
 </tr>
 <tr style="border: none;">
-<td style="border: none; vertical-align: top; width: 120px; padding-right: 15px; padding-top: 8px;"><strong>Oct 17, 2023</strong></td>
-<td style="border: none; vertical-align: top; padding-top: 8px;">Started working as Software Developer to lead the BIM Startup <a href="https://www.craft-aec.com">Craft AEC Gmbh, Germany</a>.</td>
+<td style="border: none; vertical-align: top; width: 120px; padding-right: 15px; padding-top: 8px;"><strong>Feb 21, 2025</strong></td>
+<td style="border: none; vertical-align: top; padding-top: 8px;">Graduated with MSc. in Civil & Environmental Engineering from <a href="https://www.kaist.ac.kr">KAIST</a>.</td>
 </tr>
 <tr style="border: none;">
-<td style="border: none; vertical-align: top; width: 120px; padding-right: 15px; padding-top: 8px;"><strong>Aug 23, 2023</strong></td>
-<td style="border: none; vertical-align: top; padding-top: 8px;">Started working as Data Science Intern at <a href="https://jovini.com">Jovini Group Pvt. Ltd.</a></td>
-</tr>
-<tr style="border: none;">
-<td style="border: none; vertical-align: top; width: 120px; padding-right: 15px; padding-top: 8px;"><strong>Aug 23, 2023</strong></td>
-<td style="border: none; vertical-align: top; padding-top: 8px;">Completed <a href="https://uplimit.com">Building AI Products with OpenAI course from Uplimit</a>.</td>
-</tr>
-<tr style="border: none;">
-<td style="border: none; vertical-align: top; width: 120px; padding-right: 15px; padding-top: 8px;"><strong>Dec 15, 2022</strong></td>
-<td style="border: none; vertical-align: top; padding-top: 8px;">Awarded Quaid-E-Azam Gold Medal, earning the distinction of being the overall best achiever of the university. <a href="https://www.pu.edu.pk/news/details/4321">In News</a>.</td>
+<td style="border: none; vertical-align: top; width: 120px; padding-right: 15px; padding-top: 8px;"><strong>Dec 5, 2019</strong></td>
+<td style="border: none; vertical-align: top; padding-top: 8px;">Graduated with B.Eng. in Mechanical Engineering from <a href="https://futa.edu.ng">Federal University of Technology, Akure (FUTA)</a>.</td>
 </tr>
 </table>
