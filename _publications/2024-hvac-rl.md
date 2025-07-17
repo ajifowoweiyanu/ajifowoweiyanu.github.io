@@ -8,8 +8,8 @@ date: 2024-01-01
 venue: 'Journal of Building Engineering'
 paperurl: 'https://doi.org/10.1016/j.jobe.2024.111080'
 header:
-  image: /images/500x300.png
-  teaser: /images/paragraph-indent.png
+  image: 500x300.png
+  teaser: paragraph-indent.png
 citation: 'Ajifowowe, I., Chang, H., Lee, C. S., & Chang, S. (2024). &quot;Prospects and challenges of reinforcement learning-based HVAC control.&quot; <i>Journal of Building Engineering</i>, 98, 111080.'
 ---
 

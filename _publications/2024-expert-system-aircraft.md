@@ -8,8 +8,8 @@ date: 2024-01-01
 venue: 'International Journal of Aerospace Engineering (IJASE)'
 paperurl: 'https://www.hindawi.com/journals/ijae/2024/6623658/'
 header:
-  image: /images/500x300.png
-  teaser: /images/paragraph-indent.png
+  image: 500x300.png
+  teaser: paragraph-indent.png
 citation: 'Iyanu, A., Ayobami, A., & Abiola, A. (2024). &quot;DEVELOPMENT OF AN EXPERT SYSTEM FOR AIRCRAFT FAILURES CAUSES, PREDICTIONS, AND REMEDIES.&quot; <i>International Journal of Aerospace Engineering (IJASE)</i>, 2(1).'
 ---
 
