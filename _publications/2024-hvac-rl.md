@@ -6,7 +6,10 @@ permalink: /publication/2024-hvac-rl
 excerpt: "This paper reviews the application of reinforcement learning for HVAC control, highlighting key opportunities and challenges in building energy optimization."
 date: 2024-01-01
 venue: 'Journal of Building Engineering'
-paperurl: 'https://doi.org/10.1016/j.jobe.2024.111080' # Placeholder link, replace with actual
+paperurl: 'https://doi.org/10.1016/j.jobe.2024.111080'
+header:
+  image: /images/500x300.png
+  teaser: /images/paragraph-indent.png
 citation: 'Ajifowowe, I., Chang, H., Lee, C. S., & Chang, S. (2024). &quot;Prospects and challenges of reinforcement learning-based HVAC control.&quot; <i>Journal of Building Engineering</i>, 98, 111080.'
 ---
 
