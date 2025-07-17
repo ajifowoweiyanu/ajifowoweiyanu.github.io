@@ -22,10 +22,10 @@ repository               : "ajifowoweiyanu/ajifowoweiyanu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   name             : "Iyanu Ajifowowe"
   pronouns         : # example: "she/her"  
-  bio              : "..........."
+  bio              : "Graduate researcher at KAIST studying building energy optimization and occupancy comfort"
   location         : "Daejeon, South Korea"
   employer         : "KAIST"
   uri              : # URL
