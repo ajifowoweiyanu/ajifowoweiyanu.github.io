@@ -23,8 +23,14 @@ My current research interests include:
 ## Academic Background
 - M.Sc. Civil and Environmental Engineering
   - KAIST, Daejeon, South Korea
-  - Dates: Feb. 2023 — Feb. 2025
+  - Feb. 2023 — Feb. 2025
   - Thesis: Optimizing Indoor Environmental Systems Control for Maximizing Human Comfort and Energy Efficiency Based on Reinforcement Learning
+
+- B.Eng. in Mechanical Engineering
+  - Federal University of Technology, Akure (FUTA), Akure, Nigeria
+  - Dates: Jan. 2014 - Dec. 2019
+  - Final Project: Development of an Expert System for Aircraft Failure Causes, Predictions, and Remedies
+
 
 ## Publications and Research
 
