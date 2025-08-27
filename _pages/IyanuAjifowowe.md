@@ -21,8 +21,12 @@ My current research interests include:
 - Sustainable Building Technologies
 
 ## Academic Background
+- M.Sc. in <Civil and Environmental Engineering>
+  - Institution: KAIST, Daejeon, South Korea
+  - Dates: <Feb. 2023 — Feb. 2025>
+  - Thesis / Project: "<Title>" (Advisor: <>)
+  - Notes: <awards, GPA, distinctions>
 
-..........
 ## Publications and Research
 
 You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=vg12o4kAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Iyanu-Ajifowowe).
