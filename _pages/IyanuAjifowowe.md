@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website! I'm Iyanu Ajifowowe, a graduate researcher at KAIST (Korea Advanced Institute of Science and Technology) in Daejeon, South Korea. My research focuses on building energy optimization, occupancy comfort and advanced control systems for sustainable built environments.
+I am a researcher passionate about building energy optimization and sustainable indoor environments. My work focuses on developing control strategies for HVAC, lighting, and ventilation systems to maximize human comfort while minimizing energy use. With expertise spanning computational modeling, real-world testbed experiments, and intelligent control systems, I aim to advance smart, occupant-centric, and energy-efficient building technologies.
 
 ## Research Interests
 
