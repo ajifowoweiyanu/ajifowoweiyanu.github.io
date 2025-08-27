@@ -21,11 +21,10 @@ My current research interests include:
 - Sustainable Building Technologies
 
 ## Academic Background
-- M.Sc. in <Civil and Environmental Engineering>
-  - Institution: KAIST, Daejeon, South Korea
-  - Dates: <Feb. 2023 — Feb. 2025>
-  - Thesis / Project: "<Title>" (Advisor: <>)
-  - Notes: <awards, GPA, distinctions>
+- M.Sc. Civil and Environmental Engineering
+  - KAIST, Daejeon, South Korea
+  - Dates: Feb. 2023 — Feb. 2025
+  - Thesis: Optimizing Indoor Environmental Systems Control for Maximizing Human Comfort and Energy Efficiency Based on Reinforcement Learning
 
 ## Publications and Research
 
