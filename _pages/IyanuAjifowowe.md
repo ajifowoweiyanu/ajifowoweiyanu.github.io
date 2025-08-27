@@ -29,7 +29,7 @@ My current research interests include:
 - B.Eng. in Mechanical Engineering
   - Federal University of Technology, Akure (FUTA), Akure, Nigeria
   - Dates: Jan. 2014 - Dec. 2019
-  - Final Project: Development of an Expert System for Aircraft Failure Causes, Predictions, and Remedies
+  - Thesis: Development of an Expert System for Aircraft Failure Causes, Predictions, and Remedies
 
 
 ## Publications and Research
