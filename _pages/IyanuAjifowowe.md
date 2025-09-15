@@ -20,7 +20,7 @@ My current research interests include:
 - HVAC Control Systems
 - Sustainable Building Technologies
 
-## Academic Background
+<!-- ## Academic Background
 - M.Sc. Civil and Environmental Engineering
   - KAIST, Daejeon, South Korea
   - Feb. 2023 — Feb. 2025
@@ -29,16 +29,16 @@ My current research interests include:
 - B.Eng. in Mechanical Engineering
   - Federal University of Technology, Akure (FUTA), Akure, Nigeria
   - Dates: Jan. 2014 - Dec. 2019
-  - Thesis: Development of an Expert System for Aircraft Failure Causes, Predictions, and Remedies
+  - Thesis: Development of an Expert System for Aircraft Failure Causes, Predictions, and Remedies -->
 
 
 ## Publications and Research
 
 You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=vg12o4kAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Iyanu-Ajifowowe).
 
-## Contact
+<!-- ## Contact
 
-Feel free to reach out to me at Ajifowowemichael at kaist.ac.kr or connect with me on [LinkedIn](https://www.linkedin.com/in/iyanu-ajifowowe-24272622b/).
+Feel free to reach out to me at Ajifowowemichael at kaist.ac.kr or connect with me on [LinkedIn](https://www.linkedin.com/in/iyanu-ajifowowe-24272622b/). -->
 
 ## News
 
